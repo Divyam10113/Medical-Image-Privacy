@@ -19,3 +19,7 @@ __pycache__/
 venv/
 env/
 .env/
+
+# Editor Settings
+.vscode/
+.idea/
