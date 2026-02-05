@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/opt/anaconda3/envs/medical-privacy/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.typeCheckingMode": "basic"
+}

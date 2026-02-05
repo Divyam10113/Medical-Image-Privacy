@@ -1,0 +1,21 @@
+# Credentials and Secrets
+kaggle.json
+.env
+
+# Large Data & Models
+data/raw/*
+*.pth
+*.zip
+generated_xrays.png
+diffusion_process.gif
+
+# Python Cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Virtual Environments
+venv/
+env/
+.env/
