@@ -46,7 +46,8 @@ python run_attack.py
 
 ## 📊 Results
 *   **FID Score:** ~1.41 (High Realism)
-*   **Privacy Assessment:** Model showed susceptibility to reconstruction attacks (Future work: Implement Differential Privacy).
+
+*   **Privacy Audit:** Mean Reconstruction Loss of `0.025 ± 0.037` (Scientific Baseline). Future work involves implementing Differential Privacy (DP-SGD) to rigorously minimize this reconstruction risk.
 
 ## 📂 Project Structure
 ```
